@@ -1,2 +1,7 @@
 999999999999
+<<<<<<< HEAD
 abcdefg!!!!!!!
+=======
+
+ASDASD ASDASD ASD
+>>>>>>> dev
